@@ -7,4 +7,4 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I absolutely love cats.
 
-I also have a work account @ZacharySeebeckNewtech, there's not much public on it, but you can see my contribution chart. 
+I also have a work account @ZacharySeebeckWork, there's not much public on it, but you can see my contribution chart. 
