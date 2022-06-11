@@ -1,10 +1,7 @@
 # 👋 Hi, I’m Zachary
 
-- 👀 I’m interested in web and mobile development
-- 🌱 I’m currently learning react native.
-- 🔭 I’m currently working on a food categorization app!
+- 🌱 I’m currently learning C++ and Machine Learning concepts.
+- 🔭 I’m currently working on a road/stop light simulator!
 - 📫 Contact me over on twitter! [@Xeinix](https://twitter.com/xeinix)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I absolutely love cats.
-
-I also have a work account @ZacharySeebeckWork, there's not much public on it, but you can see my contribution chart. 
